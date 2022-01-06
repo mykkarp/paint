@@ -9,6 +9,9 @@
 
 .canvasContainer {
   height: 100%;
-  margin: 0px 0px -3px 0px;
   border: 1px solid black;
+}
+
+.canvasContainer canvas {
+  display: block;
 }
